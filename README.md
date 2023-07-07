@@ -8,6 +8,7 @@ The list is public as I suppose I am not the only own that would be interested o
 
 
 
+--------------------------------
 
 ## Adaptive device
 
