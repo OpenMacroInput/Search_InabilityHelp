@@ -40,7 +40,10 @@ Amazon: https://amzn.to/46GuvBQ
 Amazon: https://amzn.to/3O6hWIM  
 Ebay: https://ebay.us/sgi3E9  
 
-
+### Titan Two (500€+)
+![image](https://github.com/OpenMacroInput/Search_InabilityHelp/assets/99685407/4ec2c3a6-be89-4bd7-8aa9-3b922da18e96)
+Amazon: https://amzn.to/3ruGEcP
+Ebay: https://ebay.us/YgeMDA
 
 ---------------
 
