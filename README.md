@@ -34,3 +34,16 @@ Amazon: https://amzn.to/46GuvBQ
 ![image](https://github.com/OpenMacroInput/Search_InabilityHelp/assets/99685407/dd274149-509d-4987-8470-45e220408dc7)  
 Amazon: https://amzn.to/3O6hWIM  
 Ebay: https://ebay.us/sgi3E9  
+
+
+
+---------------
+
+
+## Software note
+
+### Rewasd on PC for Xbox
+
+![image](https://github.com/OpenMacroInput/Search_InabilityHelp/assets/99685407/fd5e337c-fd1f-474a-a96b-89d7077949fa)
+
+https://www.rewasd.com
