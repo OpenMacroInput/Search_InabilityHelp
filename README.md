@@ -19,6 +19,11 @@ At least if you try to find a solution for you or someone else.
 ![image](https://github.com/OpenMacroInput/Search_InabilityHelp/assets/99685407/c726f04c-08c5-44a6-b728-434e21f9f5ea)  
 On ebay: https://ebay.us/xwC4BD  
 
+#### The sister Microsoft Adaptative Hub
+![image](https://github.com/OpenMacroInput/Search_InabilityHelp/assets/99685407/8fcfee3c-d77b-4877-b9ff-e7c074996fe5)
+
+https://support.microsoft.com/en-au/topic/how-to-use-microsoft-adaptive-hub-6d82fc72-4303-4dea-b188-4648ea9a0ce5
+
 ### Flex
 ![image](https://github.com/OpenMacroInput/Search_InabilityHelp/assets/99685407/396a3fb6-03e4-43cd-bc2d-5247a5b2d2b4)  
 Website: https://www.flex-controller.com/  
