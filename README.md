@@ -40,10 +40,15 @@ Amazon: https://amzn.to/46GuvBQ
 Amazon: https://amzn.to/3O6hWIM  
 Ebay: https://ebay.us/sgi3E9  
 
+[![image](https://github.com/OpenMacroInput/Search_InabilityHelp/assets/99685407/1177d94d-26cb-4b2f-aef0-0ffe43dc320a)](https://twitter.com/OneSwitch/status/1679523561306726403)
+https://twitter.com/OneSwitch/status/1679523561306726403
+
 ### Titan Two (500€+)
 ![image](https://github.com/OpenMacroInput/Search_InabilityHelp/assets/99685407/4ec2c3a6-be89-4bd7-8aa9-3b922da18e96)
 Amazon: https://amzn.to/3ruGEcP
 Ebay: https://ebay.us/YgeMDA
+
+
 
 
 ## Later
