@@ -48,7 +48,9 @@ https://twitter.com/OneSwitch/status/1679523561306726403
 Amazon: https://amzn.to/3ruGEcP
 Ebay: https://ebay.us/YgeMDA
 
-
+### Gimx Adapter
+![image](https://github.com/OpenMacroInput/Search_InabilityHelp/assets/99685407/105bd1c2-d3fe-42c0-a581-12a3741eebfb)
+https://blog.gimx.fr/product/gimx-adapter/
 
 
 ## Later
